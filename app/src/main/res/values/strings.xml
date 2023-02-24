@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android04</string>
+    <string name="menu_add">Add</string>
+    <string name="album_title_label">Album Title: (required)</string>
+    <string name="save_label">SAVE</string>
+    <string name="delete_label">DELETE</string>
+    <string name="cancel_label">CANCEL</string>
+    <string name="open_label">OPEN</string>
+    <string name="album_slideshow">ALBUM SLIDESHOW</string>
+    <string name="photo_display_label">Photo</string>
+    <string name="photo_tag_type">Photo Tag Type: (required) (Valid types: Location, Person)</string>
+    <string name="photo_tag_value">Photo Tag Value: (required)</string>
+    <string name="next_photo">NEXT PHOTO</string>
+    <string name="previous_photo">PREVIOUS PHOTO</string>
+    <string name="move_photo">MOVE PHOTO TO DESIRED ALBUM</string>
+    <string name="menu_search">Search</string>
+    <string name="tag_type">Tag Type (required)</string>
+    <string name="tag_value">Tag Value (required)</string>
+    <string name="search_by_single_tag">Search by Single Photo Tag</string>
+    <string name="conjunctive_search">Search for Photos with both Tags</string>
+    <string name="disjunctive_search">Search for Photos with either Tag</string>
+    <string name="photo_tags_label">Photo Tags:</string>
+    <string name="select_a_value">Select a value</string>
+</resources>
